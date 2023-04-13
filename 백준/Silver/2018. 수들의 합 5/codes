@@ -1,0 +1,36 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    ios::sync_with_stdio(false); // 입력과 출력 속도 향상을 위한 코드
+    cin.tie(NULL); // cin과 cout이 묶여 있는 버퍼를 풀어주는 코드
+    cout.tie(NULL);
+
+    int N;
+    cin >> N; // 입력받을 수 N
+
+    int count{ 1 }, start_index{ 1 }, end_index{ 1 }, sum{ 1 };
+    // count : 연속된 수열의 갯수
+    // start_index : 현재 수열의 첫 번째 인덱스
+    // end_index : 현재 수열의 마지막 인덱스
+    // sum : 현재 수열의 합. 처음 수열은 {1}이므로 sum도 1로 초기화
+
+    while (end_index != N) {
+        if (sum == N) { // 현재 수열의 합이 N과 같으면
+            count++; // 연속된 수열의 갯수를 1 증가시키고
+            end_index++; // 현재 수열의 마지막 인덱스를 1 증가시키고
+            sum = sum + end_index; // sum도 갱신한다.
+        }
+        else if (sum > N) { // 현재 수열의 합이 N보다 크면
+            sum = sum - start_index; // 현재 수열의 첫 번째 인덱스를 하나 증가시키면서 합에서도 빼준다.
+            start_index++; // 첫 번째 인덱스를 1 증가시킨다.
+        }
+        else { // 현재 수열의 합이 N보다 작으면
+            end_index++; // 현재 수열의 마지막 인덱스를 1 증가시키면서
+            sum = sum + end_index; // 합도 갱신한다.
+        }
+    }
+    cout << count << "\n"; // 연속된 수열의 갯수 출력
+    return 0;
+}
