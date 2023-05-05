@@ -2,8 +2,7 @@
 #include <string>
 using namespace std;
 
-int checkArr[4];
-int myArr[4];
+int checkArr[4], myArr[4];
 int checkSecret = 0;
 void Add(char c);
 void Remove(char c);
