@@ -1,10 +1,10 @@
 # [unrated] 홀짝에 따라 다른 값 반환하기 - 181935 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=cpp) 
 
 ### 성능 요약
 
-메모리: 4.14 MB, 시간: 0.01 ms
+메모리: 4.21 MB, 시간: 0.01 ms
 
 ### 구분
 
