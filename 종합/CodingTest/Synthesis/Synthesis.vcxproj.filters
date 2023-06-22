@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{46a7f0ca-6e88-4525-91ef-eed6d7f10c1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\Queue">
+      <UniqueIdentifier>{d76a1d6b-32ad-480e-9e65-f478cd55eee2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+    <Text Include="output.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Algorithm\Queue\Boj11286_절댓값힙구하기.cpp">
+      <Filter>Algorithm\Queue</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
