@@ -1,10 +1,10 @@
 # [unrated] 수 조작하기 2 - 181925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=cpp) 
 
 ### 성능 요약
 
-메모리: 5.86 MB, 시간: 1.24 ms
+메모리: 5.8 MB, 시간: 1.08 ms
 
 ### 구분
 
