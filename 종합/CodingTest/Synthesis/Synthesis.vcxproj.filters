@@ -7,14 +7,27 @@
     <Filter Include="Algorithm\Queue">
       <UniqueIdentifier>{d76a1d6b-32ad-480e-9e65-f478cd55eee2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Algorithm\Programmers">
+      <UniqueIdentifier>{dbc674f3-29ef-491c-a1fe-415a93a74926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\Programmers\Basics">
+      <UniqueIdentifier>{1ec871d3-0598-40f3-90f5-2c4677557b14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
     <Text Include="output.txt" />
+    <Text Include="Programmers\Basics\PM_수 조작하기2.txt">
+      <Filter>Algorithm\Programmers\Basics</Filter>
+    </Text>
+    <Text Include="..\..\C++문법 및 종합.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm\Queue\Boj11286_절댓값힙구하기.cpp">
       <Filter>Algorithm\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Basics\PM_수 조작하기2.cpp">
+      <Filter>Algorithm\Programmers\Basics</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
