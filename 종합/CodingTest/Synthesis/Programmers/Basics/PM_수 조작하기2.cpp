@@ -23,26 +23,28 @@ int main()
 
 string solution(vector<int> numLog)
 {
+#pragma region 프로그래머스 수 구하기
 	string answer = "";
-	for(int i = 1; i < numLog.size(); i++)
+	for (int i = 1; i < numLog.size(); i++)
 	{
 		int diff = numLog[i] - numLog[i - 1];
-		if(diff == 1)
+		if (diff == 1)
 		{
 			answer += 'w';
 		}
-		else if(diff == -1)
+		else if (diff == -1)
 		{
 			answer += 's';
 		}
-		else if(diff == 10)
+		else if (diff == 10)
 		{
 			answer += 'd';
 		}
-		else if(diff == -10)
+		else if (diff == -10)
 		{
 			answer += 'a';
 		}
 	}
 	return answer;
+#pragma endregion
 }
