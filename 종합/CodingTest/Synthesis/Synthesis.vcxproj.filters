@@ -13,6 +13,12 @@
     <Filter Include="Algorithm\Programmers\Basics">
       <UniqueIdentifier>{1ec871d3-0598-40f3-90f5-2c4677557b14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Algorithm\Sorts">
+      <UniqueIdentifier>{59a89ecd-3030-4885-8594-bbafd87e106f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\Sorts\Bubbles">
+      <UniqueIdentifier>{acc5802b-3741-4084-ad4e-aef656fc68f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
@@ -28,6 +34,9 @@
     </ClCompile>
     <ClCompile Include="Programmers\Basics\PM_수 조작하기2.cpp">
       <Filter>Algorithm\Programmers\Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2750_수 정렬하기1.cpp">
+      <Filter>Algorithm\Sorts\Bubbles</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
