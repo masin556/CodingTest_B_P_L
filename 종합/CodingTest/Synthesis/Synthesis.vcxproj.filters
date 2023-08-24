@@ -27,6 +27,12 @@
       <Filter>Algorithm\Programmers\Basics</Filter>
     </Text>
     <Text Include="..\..\C++문법 및 종합.txt" />
+    <Text Include="BOJ2075_수 정렬하기1.txt">
+      <Filter>Algorithm\Sorts\Bubbles</Filter>
+    </Text>
+    <Text Include="BOJ1377_버블 소트.txt">
+      <Filter>Algorithm\Sorts\Bubbles</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm\Queue\Boj11286_절댓값힙구하기.cpp">
@@ -36,6 +42,9 @@
       <Filter>Algorithm\Programmers\Basics</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2750_수 정렬하기1.cpp">
+      <Filter>Algorithm\Sorts\Bubbles</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1377_버블 소트.cpp">
       <Filter>Algorithm\Sorts\Bubbles</Filter>
     </ClCompile>
   </ItemGroup>
