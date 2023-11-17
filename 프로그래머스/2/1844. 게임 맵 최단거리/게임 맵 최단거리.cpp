@@ -11,8 +11,8 @@ int solution(vector<vector<int>> maps)
     vector<vector<int>> visited(n, vector<int>(m, 0));
 
     // 상하좌우 이동 방향
-    int dr[] = { -1, 1, 0, 0 };
-    int dc[] = { 0, 0, -1, 1 };
+    int dx[] = { -1, 1, 0, 0 };
+    int dy[] = { 0, 0, -1, 1 };
 
     // BFS를 위한 큐
     queue<pair<int, int>> q;
@@ -31,8 +31,8 @@ int solution(vector<vector<int>> maps)
 
         // 상하좌우 이동 확인
         for (int i = 0; i < 4; ++i) {
-            int newRow = row + dr[i];
-            int newCol = col + dc[i];
+            int newRow = row + dx[i];
+            int newCol = col + dy[i];
 
             // 이동 가능한 범위인지 확인
             if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < m) {
