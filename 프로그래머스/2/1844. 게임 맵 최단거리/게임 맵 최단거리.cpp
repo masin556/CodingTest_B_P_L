@@ -20,26 +20,26 @@ int solution(vector<vector<int>> maps)
     visited[0][0] = true;
 
     while (!q.empty()) {
-        int row = q.front().first;
-        int col = q.front().second;
+        int x = q.front().first;
+        int y = q.front().second;
         q.pop();
 
         // 상대 팀의 캠프에 도달한 경우 최소 이동 횟수 반환
-        if (row == n - 1 && col == m - 1) {
-            return visited[row][col];
+        if (x == n - 1 && y == m - 1) {
+            return visited[x][y];
         }
 
         // 상하좌우 이동 확인
         for (int i = 0; i < 4; ++i) {
-            int newRow = row + dx[i];
-            int newCol = col + dy[i];
+            int nx = x + dx[i];
+            int ny = y + dy[i];
 
             // 이동 가능한 범위인지 확인
-            if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < m) {
+            if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
                 // 벽이 아니고 아직 방문하지 않은 지점인 경우 이동
-                if (maps[newRow][newCol] == 1 && !visited[newRow][newCol]) {
-                    q.push({ newRow, newCol });
-                    visited[newRow][newCol] = visited[row][col] + 1;
+                if (maps[nx][ny] == 1 && !visited[nx][ny]) {
+                    q.push({ nx, ny });
+                    visited[nx][ny] = visited[x][y] + 1;
                 }
             }
         }
