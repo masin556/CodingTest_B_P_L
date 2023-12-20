@@ -9,7 +9,7 @@ int main()
 		cin >> a >> b;
 		if (cin.eof())
 			break;
-		cout << a + b << endl;
+		cout << a + b << '\n';
 	}
 	return 0;
 }
