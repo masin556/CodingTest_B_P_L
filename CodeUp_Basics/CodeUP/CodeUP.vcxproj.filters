@@ -19,5 +19,17 @@
     <ClCompile Include="Basic_100\cup_1008.cpp">
       <Filter>cup_codeUP_100</Filter>
     </ClCompile>
+    <ClCompile Include="cup_1010.cpp">
+      <Filter>cup_codeUP_100</Filter>
+    </ClCompile>
+    <ClCompile Include="cup_1011.cpp">
+      <Filter>cup_codeUP_100</Filter>
+    </ClCompile>
+    <ClCompile Include="cup_1012.cpp">
+      <Filter>cup_codeUP_100</Filter>
+    </ClCompile>
+    <ClCompile Include="cup_1013.cpp">
+      <Filter>cup_codeUP_100</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
