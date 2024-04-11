@@ -31,5 +31,8 @@
     <ClCompile Include="cup_1013.cpp">
       <Filter>cup_codeUP_100</Filter>
     </ClCompile>
+    <ClCompile Include="cup_1021.cpp" />
+    <ClCompile Include="cup_1022.cpp" />
+    <ClCompile Include="cup_1023.cpp" />
   </ItemGroup>
 </Project>
