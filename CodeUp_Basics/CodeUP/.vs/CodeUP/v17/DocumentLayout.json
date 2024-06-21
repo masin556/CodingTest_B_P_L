@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1029.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1029.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1028.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1028.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cup_1030.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1030.cpp",
+              "RelativeDocumentMoniker": "cup_1030.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1030.cpp",
+              "RelativeToolTip": "cup_1030.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T12:53:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cup_1029.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1029.cpp",
+              "RelativeDocumentMoniker": "cup_1029.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1029.cpp",
+              "RelativeToolTip": "cup_1029.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T12:29:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cup_1028.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1028.cpp",
+              "RelativeDocumentMoniker": "cup_1028.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1028.cpp",
+              "RelativeToolTip": "cup_1028.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T12:27:45.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cup_1027.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1027.cpp",
+              "RelativeDocumentMoniker": "cup_1027.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1027.cpp",
+              "RelativeToolTip": "cup_1027.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T12:27:25.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
