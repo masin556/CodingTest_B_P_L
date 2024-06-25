@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1031.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2BBA3BC9-CB10-4986-AAA7-BC826436569C}|CodeUP.vcxproj|solutionrelative:cup_1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,11 +34,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 187,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "cup_1032.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1032.cpp",
+              "RelativeDocumentMoniker": "cup_1032.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1032.cpp",
+              "RelativeToolTip": "cup_1032.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T14:47:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cup_1031.cpp",
+              "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1031.cpp",
+              "RelativeDocumentMoniker": "cup_1031.cpp",
+              "ToolTip": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1031.cpp",
+              "RelativeToolTip": "cup_1031.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T14:42:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "cup_1030.cpp",
               "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1030.cpp",
               "RelativeDocumentMoniker": "cup_1030.cpp",
@@ -43,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "cup_1029.cpp",
               "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1029.cpp",
               "RelativeDocumentMoniker": "cup_1029.cpp",
@@ -51,12 +89,11 @@
               "RelativeToolTip": "cup_1029.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T12:29:43.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T12:29:43.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "cup_1028.cpp",
               "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1028.cpp",
               "RelativeDocumentMoniker": "cup_1028.cpp",
@@ -68,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "cup_1027.cpp",
               "DocumentMoniker": "D:\\CodingTest_B_P_L\\CodeUp_Basics\\CodeUP\\cup_1027.cpp",
               "RelativeDocumentMoniker": "cup_1027.cpp",
