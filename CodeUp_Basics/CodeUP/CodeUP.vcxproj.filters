@@ -47,5 +47,9 @@
     <ClCompile Include="cup_1034.cpp" />
     <ClCompile Include="cup_1035.cpp" />
     <ClCompile Include="cup_1036.cpp" />
+    <ClCompile Include="cup_1037.cpp" />
+    <ClCompile Include="cup_1038.cpp" />
+    <ClCompile Include="cup_1039.cpp" />
+    <ClCompile Include="cup_1040.cpp" />
   </ItemGroup>
 </Project>
