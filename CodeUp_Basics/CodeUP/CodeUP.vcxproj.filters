@@ -78,5 +78,6 @@
     <ClCompile Include="cup_1065.cpp" />
     <ClCompile Include="cup_1066.cpp" />
     <ClCompile Include="cup_1067.cpp" />
+    <ClCompile Include="cup_1068.cpp" />
   </ItemGroup>
 </Project>
