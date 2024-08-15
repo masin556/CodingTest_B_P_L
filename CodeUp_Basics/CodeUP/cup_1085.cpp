@@ -14,7 +14,7 @@ int main()
 	float Hz, bt, c, s, mb = 0;
 	cin >> Hz >> bt >> c >> s;
 
-	mb = (Hz * bt * c * s) / 8 / 1024 / 1024;
+	mb = (Hz * bt * c * s) / 8 / 1024 / 1024; // 소수점을 맞춰주기 위함
 	printf("%.1f MB\n", mb);
 
 	return 0;
