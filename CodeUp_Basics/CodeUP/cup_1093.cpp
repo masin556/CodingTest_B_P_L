@@ -23,7 +23,7 @@ int main()
 	for (int i = 0; i < n; ++i)
 	{
 		cin >> m;
-		a[m-1] += 1; 
+		a[m-1] = a[m - 1] + 1;
 	}
 
 	for (int i = 0; i < 23; ++i)
