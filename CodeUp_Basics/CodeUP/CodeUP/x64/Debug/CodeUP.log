@@ -1,1 +1,3 @@
-﻿  CodeUP.vcxproj -> D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\x64\Debug\CodeUP.exe
+﻿  cup_1096.cpp
+D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\cup_1096.cpp(20,12): warning C4101: 'w': unreferenced local variable
+  CodeUP.vcxproj -> D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\x64\Debug\CodeUP.exe
