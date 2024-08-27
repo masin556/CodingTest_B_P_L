@@ -8,6 +8,12 @@
 
 	바둑판(19 * 19)에 n개의 흰 돌을 놓는다고 할 때,
 	n개의 흰 돌이 놓인 위치를 출력하는 프로그램을 작성해보자.
+5
+1 1
+2 2
+3 3
+4 4
+5 5
 */
 
 #include <iostream>
@@ -17,21 +23,20 @@ using namespace std;
 
 int main() {
 
-    int q, w, x, y;
-
-    cin >> q;
+    int n, x, y;
+    cin >> n;
 
     int a[20][20] = {};
 
-    for (int p = 0; p < q; p++) {
+    for (int i = 0; i < n; i++) {
         cin >> x >> y;
-        a[x][y] = 1;
-    }
+        a[x][y] = 1; // 입력 받은 좌표의 배열 요소를 1로 설정한다. 즉 해당 좌표에 값을 1을 넣는 다는 것
+    } 
 
 
-    for (int z = 1; z < 20; z++) {
-        for (int c = 1; c < 20; c++) {
-            printf("%d ", a[z][c]);
+    for (int i = 1; i < 20; i++) {
+        for (int j = 1; j < 20; j++) {
+            printf("%d ", a[i][j]);
         }
         printf("\n");
     }
