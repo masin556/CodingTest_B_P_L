@@ -18,7 +18,8 @@ n개의 좌표를 입력받아 십(+)자 뒤집기한 결과를 출력하는 프
 using namespace std;
 
 //입력받은 좌표 (x, y)를 중심으로 가로와 세로 방향으로 모든 원소를 1과 0으로 바꾼다.
-void flip(vector<vector<int>>& board, int x, int y) {
+void flip(vector<vector<int>>& board, int x, int y)
+{
 	int n = board.size();
 	for (int i = 0; i < n; ++i) {
 		board[x][i] = 1 - board[x][i]; // 1 - board[x][i] 연산을 통해 0과 1을 서로 바꾼다.
@@ -36,7 +37,7 @@ int main()
 	{
 		for (int j = 1; j < 20; j++)
 		{
-			cin >> board[i][j]; 
+			cin >> board[i][j];
 		}
 	}
 

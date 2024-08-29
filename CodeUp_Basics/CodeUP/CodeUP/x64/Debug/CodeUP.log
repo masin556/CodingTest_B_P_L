@@ -1,5 +1,2 @@
-﻿  cup_1097.cpp
-D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\cup_1097.cpp(21,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\cup_1097.cpp(30,12): warning C4101: 'y': unreferenced local variable
-D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\cup_1097.cpp(30,9): warning C4101: 'x': unreferenced local variable
+﻿  cup_1099.cpp
   CodeUP.vcxproj -> D:\CodingTest_B_P_L\CodeUp_Basics\CodeUP\x64\Debug\CodeUP.exe
