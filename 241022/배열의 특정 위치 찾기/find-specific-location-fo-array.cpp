@@ -24,6 +24,6 @@ int main() {
             cnt++;
         }
     }
-    printf ("%d %.1f", evensum, (float)(oddsum / cnt));
+    printf ("%d %.1f", evensum, (double)(oddsum / cnt));
     return 0;
 }
