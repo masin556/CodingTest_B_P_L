@@ -24,6 +24,10 @@ int main() {
             cnt++;
         }
     }
-    printf ("%d %.1f", evensum, (double)(oddsum / cnt));
+    double  avg3 = (double)oddsum / cnt;
+
+    // cout << fixed;
+    // cout.precision(1);
+    printf ("%d %.1f", evensum, avg3);
     return 0;
 }
