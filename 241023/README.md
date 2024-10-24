@@ -3,12 +3,12 @@
 ## 📚 단계별 학습
 24년 10월 23일 목표(90px)를 달성했어요🥳.
 
-![260xp](https://img.shields.io/badge/EXP-260xp-%235cb85c.svg?for-the-badge)
-![2일째](https://img.shields.io/badge/연속학습-2일째-%23E34F26.svg?for-the-badge)
+![180xp](https://img.shields.io/badge/EXP-180xp-%235cb85c.svg?for-the-badge)
+![0일째](https://img.shields.io/badge/연속학습-0일째-%23E34F26.svg?for-the-badge)
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-25|260xp|2일째🔥|
+25|180xp|0일째❄️|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
@@ -32,7 +32,7 @@
 |[Novice Low / 출력 / 변수 값 변경](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 교체하기](https://www.codetree.ai/missions/4/problems/replacing-variable-values)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0/replacing-variable-values.cpp)|
 |[Novice Low / 출력 / 변수 값 변경](https://www.codetree.ai/missions?missionId=4)|[[연습]변수 값 교체하기 4](https://www.codetree.ai/missions/4/problems/replacing-variable-values-4)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%204/replacing-variable-values-4.cpp)|
 |[Novice Low / 출력 / 변수 값 변경](https://www.codetree.ai/missions?missionId=4)|[[테스트]문자 변경하기](https://www.codetree.ai/missions/4/problems/change-charater)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%AC%B8%EC%9E%90%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/change-charater.cpp)|
-|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 교체하기 2](https://www.codetree.ai/missions/4/problems/replacing-variable-values-2)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%202/replacing-variable-values-2.cpp)|
+|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[변수 값 교체하기 2](https://www.codetree.ai/missions/4/problems/replacing-variable-values-2)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%202/replacing-variable-values-2.cpp)|
 |[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[[연습]변수 값 교체하기 5](https://www.codetree.ai/missions/4/problems/replacing-variable-values-5)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%205/replacing-variable-values-5.cpp)|
 |[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[[테스트]정수 복사](https://www.codetree.ai/missions/4/problems/copy-integer)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EC%A0%95%EC%88%98%20%EB%B3%B5%EC%82%AC/copy-integer.cpp)|
 |[Novice Low / 출력 / 두 변수 값을 교환](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 교체하기 3](https://www.codetree.ai/missions/4/problems/replacing-variable-values-3)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/masin556/CodingTest_B_P_L/blob/main/241023/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%203/replacing-variable-values-3.cpp)|
